@@ -1,0 +1,1 @@
+A mini project to recreate google's homepage as part of The Odin Project's course work.
